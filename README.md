@@ -12,7 +12,7 @@ Users should be able to:
   - Filter by All, Active, and Completed
   - Delete all TODOs
   - Toggle status of all TODOs
-  - 
+   
 ### Links
   - [DEMO LINK](https://koliiis.github.io/todo-app/)
   - [CODE LINK](https://github.com/koliiis/todo-app)
