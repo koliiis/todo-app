@@ -1,32 +1,59 @@
 # ToDo App
 
+A task management app that allows users to create, update, and organize their to-do items. The application supports user authentication, real-time API interaction, and filtering features.
 
-## Overview
+## 🔗 Live Preview
 
-### The challenge
+  [Live Demo](https://koliiis.github.io/todo-app/)
 
-Users should be able to:
+## 🎯 Features
 
-  - Sign In or Log In
-  - Create, Delete and Update the status of TODO or rename it
-  - Filter by All, Active, and Completed
-  - Delete all TODOs
-  - Toggle status of all TODOs
-   
-### Links
-  - [DEMO LINK](https://koliiis.github.io/todo-app/)
-  - [CODE LINK](https://github.com/koliiis/todo-app)
+  - Sign in / Log in
 
-## Process
+  - Add, rename, or delete a todo
 
-### Built with
+  - Toggle individual todo status (active/completed)
 
-  - REST api
+  - Toggle all todos at once
+
+  - Filter by All / Active / Completed
+
+  - Delete all todos
+
+## 🛠️ Technologies Used
+
   - TypeScript
+
   - React
-  - Bulma
 
-### What I learned
+  - Bulma CSS framework
 
-  - The main focus was to learn how to work with API, applying GET, POST, DELETE, and PATCH methods
-  - Also practiced with TypeScript
+  - REST API – GET, POST, DELETE, PATCH
+
+## 🚀 Getting Started
+
+To set up the project locally:
+
+  ### 1. Clone the repository:
+
+    git clone https://github.com/koliiis/todo-app.git
+    cd todo-app
+    
+  ### 2. Install dependencies:
+
+    npm install
+  #### or
+    yarn install
+    
+  ### 3. Run the project:
+
+    npm start
+  #### or
+    yarn start
+    
+## 📚 What I Learned
+  - Working with REST API endpoints and handling different HTTP methods (GET, POST, DELETE, PATCH)
+
+  - Strengthened my understanding of TypeScript in a real-world React app
+
+  - Practiced creating reusable components and managing app state effectively
